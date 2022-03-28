@@ -7,7 +7,7 @@
 
 ### 🤔我是谁 | Orange Tien
 
-- 🏫 M.U.S.T. 大三 | 计算机 ｜ 渣渣 ｜ 学生
+- 🏫 M.U.S.T. 大三 | CS ｜ 渣渣
 - 🌱 Based on 横琴 | 澳门
 - 💬 Resource Finding 可以找我->[✈️Telegram✈️](https://t.me/orangetien) 
 - ⭐ Blog is [玻璃晴朗，橘子辉煌🍊](https://www.bytedance.fit/)
