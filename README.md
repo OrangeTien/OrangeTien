@@ -2,7 +2,6 @@
 
 
 ---
-(img not updated)
 <img align="right" alt="GIF" src="https://github.com/OrangeTien/OrangeTien/blob/main/program.gif" />
 
 ### 🤔我是谁 | Orange Tien
