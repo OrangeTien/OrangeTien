@@ -3,7 +3,7 @@
 
 ---
 (img not updated)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/OrangeTien/OrangeTien/blob/main/guagua.gif" />
 
 ### 🤔我是谁 | Orange Tien
 
