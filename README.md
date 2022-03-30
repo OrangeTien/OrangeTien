@@ -26,6 +26,9 @@
 ### 🍊 2022 情况 | Gayhub Performance
 [![OrangeTien's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeTien&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📫 联系我 | Contact Me
+[![](https://img.shields.io/badge/OrangeTien-orange?style=flat-square&logo=telegram)](https://t.me/orangetien)
+[![](https://img.shields.io/badge/Alger-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:834818935alger@gmail.com)
 
 <!--
 **OrangeTien/OrangeTien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
